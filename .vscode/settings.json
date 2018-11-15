@@ -1,0 +1,5 @@
+{
+    "eslint._legacyModuleResolve": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true
+}
